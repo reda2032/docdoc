@@ -35,6 +35,29 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  # State management
+  flutter_bloc: ^8.1.5
+  # Code generator (mainly used with cubit & retrofit)
+  freezed: ^2.4.5
+  freezed_annotation: ^2.4.1
+  # for dependency injection
+  get_it: ^7.7.0
+  # Automatically generate code for converting to and from JSON by annotating Dart classes
+  json_serializable: ^6.8.0
+  # Networking
+  dio: ^5.4.3+1
+  retrofit: ^4.1.0
+  retrofit_generator: ^8.1.0
+  pretty_dio_logger: ^1.3.1
+  intl: ^0.19.0
+  # localization
+  # An SVG rendering and widget library for Flutter, which allows painting
+  # for adapting screen and font size.
+  # Flutter library to load and cache network images.
+  # reading and writing simple key-value pairs
+  # provides API to store data in secure storage.
+
+
 
 dev_dependencies:
   flutter_test:
@@ -45,7 +68,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
