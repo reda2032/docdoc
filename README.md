@@ -1,7 +1,7 @@
 # docdoc
 
 Docdoc
-# thanks to Eng.Omar Ahmed 
+# Thanks to Eng.Omar Ahmed 
 # https://www.youtube.com/watch?v=rpT7vDbNM3M&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a
 ## Getting Started
 
